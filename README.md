@@ -28,3 +28,34 @@ ________________________________________________________________________________
 ![173277559-96c06c7c-d5bf-4b3e-8c0a-d276db61990b](https://github.com/Ashok-713/Cpp_Projects/assets/102814093/24689e96-1478-433b-be9f-b746ab536886)
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# UNIVERSITY MANAGEMENT SYSTEM
+
+This Repository consist of following :
+
+APPLICATION FOLDER which consists of Main Application, class file, object file & all the text Files
+Image having ASCII Codes
+NOTE - Login Details are in Login.txt file ( Id & Password are CASE SENSITIVE )
+
+FLOW OF APPLICATION
+
+Finance Department
+Paying Fees
+Fee Receipt
+Salary Certificate
+Admin Department
+Student Section - List Of Student
+Faculty Section - List Of Faculties & HOD's
+Student & Faculty Login
+Results
+Details
+This Project is fully tested on Dev C++ IDE software
+
+Use Dev C++ to Run This Project code
+
+
+
+
+
+
