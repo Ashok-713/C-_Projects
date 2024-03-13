@@ -37,12 +37,11 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 This Repository consist of following :
 
-APPLICATION FOLDER which consists of Main Application, class file, object file & all the text Files
-Image having ASCII Codes
+**APPLICATION FOLDER**: which consists of Main Application, class file, object file & all the text Files
+**Image having ASCII Codes**
 NOTE - Login Details are in Login.txt file ( Id & Password are CASE SENSITIVE )
 
-FLOW OF APPLICATION
-
+**FLOW OF APPLICATION**
 Finance Department
 Paying Fees
 Fee Receipt
@@ -53,7 +52,7 @@ Faculty Section - List Of Faculties & HOD's
 Student & Faculty Login
 Results
 Details
-This Project is fully tested on Dev C++ IDE software
+This Project is fully tested on ** Dev C++ ** IDE software
 
 Use Dev C++ to Run This Project code
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
